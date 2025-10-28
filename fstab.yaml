@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p133739-e1306963.adobeaemcloud.com/bin/franklin.delivery/Rightpoint/broc-eds/main"
+    url: "https://author-p133739-e1306963.adobeaemcloud.com/bin/franklin.delivery/broc-rightpoint/riggs-xwalk/main"
     type: "markup"
     suffix: ".html"
